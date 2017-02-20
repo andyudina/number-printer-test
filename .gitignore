@@ -1,0 +1,6 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Procution config usually have coverage, venv and platform specific files
+# Didn't include them to keep example as simple as possible
